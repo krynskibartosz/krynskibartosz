@@ -1,2 +1,2 @@
 # Hey! I'm Bartek 👋🏻
-### A frontend developer and graphic designer 
+### A frontend developer 💻 and designer 💅🏻  
