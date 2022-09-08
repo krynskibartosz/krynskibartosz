@@ -1,4 +1,4 @@
-<h3 align="center">A frontend developer 💻 and designer 💅🏻 .</h3>
+<h1 align="center">A frontend developer 💻 and designer 💅🏻 .</h3>
 
 - 🔭 I’m currently working on my portfolio [Rafal](https://bartek-portfolio.vercel.app/)
 
