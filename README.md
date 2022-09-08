@@ -1,5 +1,5 @@
-<h1 align="center" color="pink">A frontend developer `red color` and designer.</h3>
-
+<h1 align="center" color="pink">A frontend developer  and designer.</h3>
+`red color`
 
 
 - 🌱 I’m currently learning **Software Craftmanship & design**
