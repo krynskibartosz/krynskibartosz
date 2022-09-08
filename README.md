@@ -1,6 +1,6 @@
 <h1 align="center" color="pink">A frontend developer and designer.</h3>
 
-- 🔭 I’m currently working on my portfolio [Rafal](https://bartek-portfolio.vercel.app/)
+
 
 - 🌱 I’m currently learning **Software Craftmanship & design**
 
