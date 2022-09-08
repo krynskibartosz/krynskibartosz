@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Software Craftmanship & design**
 
-- 👨‍💻 All of my projects are available at [https://bartek-portfolio.vercel.app/](https://bartek-portfolio.vercel.app/)
+- 👨‍💻 You can find my projects on [https://bartek-portfolio.vercel.app/](https://bartek-portfolio.vercel.app/)
 
 - 💬 Ask me about **TypeScript, Next.js, React, CSS UX/UI, Figma**
 
